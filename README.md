@@ -1,5 +1,7 @@
 # Multithreaded-banking-application
 The banking application is a multithreaded synchronised application.The application does not use the system defined mutex locks.Instead of that user defined mutex locks are used 
+
+
 PROBLEM STATEMENT:
 Consider a multithreaded banking application. The main process receives
 requests to tranfer money from one account to the other, and each request is
